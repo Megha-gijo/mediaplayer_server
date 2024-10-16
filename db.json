@@ -1,0 +1,86 @@
+{
+  "videos": [
+    {
+      "caption": "JIL JIL JIL Video Song",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkQ5iFfP_HsgxuCETaPMmAb83tT1SnCNLz9A&s",
+      "embeddedLink": "https://www.youtube.com/embed/C7rJZjB6u7w",
+      "id": 3
+    },
+    {
+      "caption": "Neela Nilave",
+      "imageUrl": "https://i.ytimg.com/vi/nYEoxne_20Y/maxresdefault.jpg",
+      "embeddedLink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "id": 4
+    },
+    {
+      "caption": "Kusu Kusu Song",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQonaWhzQOvCHOI9O4AiuLiyOHXKWmDc4UM6Q&s",
+      "embeddedLink": "https://www.youtube.com/embed/RgzLnmTaCAU",
+      "id": 6
+    },
+    {
+      "caption": "Until I Found You",
+      "imageUrl": "https://orangemagazine.ph/wp-content/uploads/2022/06/Stephen-Sanchez-Rolling-Stone-Until-I-Found-You-11th-Music-Video-First-Look.png",
+      "embeddedLink": "https://www.youtube.com/embed/atRzwlp0iDk",
+      "id": 7
+    }
+  ],
+  "history": [
+    {
+      "caption": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "time": "10/10/2024, 08:42:27",
+      "id": 2
+    },
+    {
+      "caption": "Kusu Kusu Song",
+      "url": "https://www.youtube.com/embed/RgzLnmTaCAU",
+      "time": "10/10/2024, 08:42:29",
+      "id": 3
+    },
+    {
+      "caption": "Oru Kathilola Njan Video Song",
+      "url": "https://www.youtube.com/embed/Rz-hqTc1KXk",
+      "time": "10/10/2024, 08:42:31",
+      "id": 4
+    },
+    {
+      "caption": "JIL JIL JIL Video Song",
+      "url": "https://www.youtube.com/embed/C7rJZjB6u7w",
+      "time": "10/10/2024, 08:52:55",
+      "id": 5
+    },
+    {
+      "caption": "Until I Found You",
+      "url": "https://www.youtube.com/embed/atRzwlp0iDk",
+      "time": "14/10/2024, 10:14:22",
+      "id": 7
+    }
+  ],
+  "category": [
+    {
+      "Category": "Hindi Songs",
+      "Allvideos": [
+        {
+          "caption": "Kusu Kusu Song",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQonaWhzQOvCHOI9O4AiuLiyOHXKWmDc4UM6Q&s",
+          "embeddedLink": "https://www.youtube.com/embed/RgzLnmTaCAU",
+          "id": 6
+        }
+      ],
+      "id": 2
+    },
+    {
+      "Category": "English Songs",
+      "Allvideos": [
+        {
+          "caption": "Until I Found You",
+          "imageUrl": "https://orangemagazine.ph/wp-content/uploads/2022/06/Stephen-Sanchez-Rolling-Stone-Until-I-Found-You-11th-Music-Video-First-Look.png",
+          "embeddedLink": "https://www.youtube.com/embed/atRzwlp0iDk",
+          "id": 7
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
